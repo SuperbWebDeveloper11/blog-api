@@ -2,6 +2,7 @@
 
 ## blog-api
 Blog API project built using Django Rest Framework, with the following models: Post, Comment, Postlike, Commentlike  
+
 It offer 4 ways fo doing crud operations: 
   - using hardcoded views
   - using mixins
